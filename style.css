@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: blue;
+    padding:10px;
+    border-radius:15px;
+    color: white;
+}
+header a {
+    text-decoration: none;
+    color: white;
+    border:1px solid white;
+    padding:5px;
+}
+h1 {
+    color:blue;
+    text-align:center;
+    padding:20px;
+    border-radius:15px;
+    border:1px solid lightgray;
+}
+footer {
+    background-color:white;
+    border-radius:20px;
+    text-align:left;
+    border:1px solid lightgray;
+    padding:20px;
+}
+footer p {
+    background-color:lightgreen;
+}
+nav {
+    background-color:white;
+    border:1px solid darkmagenta;
+    padding:15px;
+    border-radius:20px;
+}
+nav a {
+    text-decoration:none;
+    color:lightpink;
+}
+.over {
+    background-color: chartreuse;
+    padding:40px;
+    border:1px solid chartreuse;
+    border-radius: 20px;
+}
+h2 {
+    color:blue;
+}
